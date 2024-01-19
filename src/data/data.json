@@ -1,0 +1,386 @@
+[
+  {
+    "id": 1,
+    "name": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "image": "/book-1.jpg",
+    "rating": 4.8,
+    "maxRating": 5,
+    "description": "A novel that explores the issues of race and class in the Deep South of the 1930s.",
+    "review": {
+      "name": "John Doe",
+      "age": 34,
+      "message": "A timeless classic that speaks volumes about human behavior.",
+      "title": "Deeply Moving"
+    },
+    "downloads": 500000
+  },
+  {
+    "id": 2,
+    "name": "1984",
+    "author": "George Orwell",
+    "image": "/book-2.jpg",
+    "rating": 4.6,
+    "maxRating": 5,
+    "description": "A dystopian novel presenting an imagined future under a totalitarian regime.",
+    "review": {
+      "name": "Jane Smith",
+      "age": 28,
+      "message": "Chilling and thought-provoking. A must-read.",
+      "title": "Frighteningly Realistic"
+    },
+    "downloads": 450000
+  },
+  {
+    "id": 3,
+    "name": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "image": "/book-3.jpg",
+    "rating": 4.7,
+    "maxRating": 5,
+    "description": "A tale of love, mystery, and tragedy in the Roaring Twenties.",
+    "review": {
+      "name": "Alice Johnson",
+      "age": 27,
+      "message": "An iconic masterpiece of American literature.",
+      "title": "Captivating and Tragic"
+    },
+    "downloads": 1200000
+  },
+  {
+    "id": 4,
+    "name": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "image": "/book-4.jpg",
+    "rating": 4.5,
+    "maxRating": 5,
+    "description": "A romantic novel of manners in early 19th century England.",
+    "review": {
+      "name": "David Smith",
+      "age": 31,
+      "message": "A brilliant portrayal of societal expectations and love.",
+      "title": "Timelessly Engaging"
+    },
+    "downloads": 800000
+  },
+  {
+    "id": 5,
+    "name": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "image": "/book-5.jpg",
+    "rating": 4.9,
+    "maxRating": 5,
+    "description": "The first book in the Harry Potter series, introducing a magical world.",
+    "review": {
+      "name": "Oliver Twist",
+      "age": 15,
+      "message": "Magical and captivating for all ages.",
+      "title": "Spellbinding Adventure"
+    },
+    "downloads": 5000000
+  },
+  {
+    "id": 6,
+    "name": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "image": "/book-2.jpg",
+    "rating": 4.2,
+    "maxRating": 5,
+    "description": "A story about teenage alienation and loss of innocence.",
+    "review": {
+      "name": "Chris Evans",
+      "age": 27,
+      "message": "A striking portrayal of adolescent angst.",
+      "title": "Profoundly Impactful"
+    },
+    "downloads": 900000
+  },
+  {
+    "id": 7,
+    "name": "Brave New World",
+    "author": "Aldous Huxley",
+    "image": "/book-3.jpg",
+    "rating": 4.3,
+    "maxRating": 5,
+    "description": "A dystopian novel envisioning a technologically advanced future society.",
+    "review": {
+      "name": "Laura Beth",
+      "age": 32,
+      "message": "A riveting, unsettling vision of the future.",
+      "title": "Terrifyingly Insightful"
+    },
+    "downloads": 800000
+  },
+  {
+    "id": 8,
+    "name": "Moby-Dick",
+    "author": "Herman Melville",
+    "image": "/book-5.jpg",
+    "rating": 4.1,
+    "maxRating": 5,
+    "description": "An epic sea adventure revolving around Captain Ahab's obsession with a giant whale.",
+    "review": {
+      "name": "George Allan",
+      "age": 45,
+      "message": "A masterful blend of adventure, philosophy, and allegory.",
+      "title": "Epic and Symbolic"
+    },
+    "downloads": 600000
+  },
+  {
+    "id": 9,
+    "name": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "image": "/book-1.jpg",
+    "rating": 4.5,
+    "maxRating": 5,
+    "description": "A psychological drama exploring guilt and redemption in 19th century Russia.",
+    "review": {
+      "name": "Irina Sokolov",
+      "age": 38,
+      "message": "Intense, gripping, and philosophically deep.",
+      "title": "A Masterpiece of World Literature"
+    },
+    "downloads": 700000
+  },
+  {
+    "id": 10,
+    "name": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "image": "/book-4.jpg",
+    "rating": 4.8,
+    "maxRating": 5,
+    "description": "A fantasy adventure about a hobbit's journey to win a share of a dragon's treasure.",
+    "review": {
+      "name": "Samuel Jackson",
+      "age": 35,
+      "message": "A timeless fantasy that captivates the imagination.",
+      "title": "Enchanting and Thrilling"
+    },
+    "downloads": 1500000
+  },
+  {
+    "id": 11,
+    "name": "Little Women",
+    "author": "Louisa May Alcott",
+    "image": "/book-3.jpg",
+    "rating": 4.4,
+    "maxRating": 5,
+    "description": "A heartwarming tale of four sisters growing up during the American Civil War.",
+    "review": {
+      "name": "Emma Green",
+      "age": 23,
+      "message": "A touching story of sisterhood and personal growth.",
+      "title": "Cherished Classic"
+    },
+    "downloads": 700000
+  },
+  {
+    "id": 12,
+    "name": "Frankenstein",
+    "author": "Mary Shelley",
+    "image": "/book-5.jpg",
+    "rating": 4.3,
+    "maxRating": 5,
+    "description": "A groundbreaking work that explores the dangers of unchecked scientific ambition.",
+    "review": {
+      "name": "Robert Walton",
+      "age": 40,
+      "message": "A deeply philosophical novel that questions the essence of humanity.",
+      "title": "Hauntingly Beautiful"
+    },
+    "downloads": 650000
+  },
+  {
+    "id": 13,
+    "name": "Jane Eyre",
+    "author": "Charlotte Brontë",
+    "image": "/book-2.jpg",
+    "rating": 4.5,
+    "maxRating": 5,
+    "description": "The story of a young woman's resilience and journey towards finding a sense of belonging.",
+    "review": {
+      "name": "Alice Hart",
+      "age": 29,
+      "message": "An inspiring tale of strength and independence.",
+      "title": "Empowering and Emotional"
+    },
+    "downloads": 800000
+  },
+  {
+    "id": 14,
+    "name": "Dracula",
+    "author": "Bram Stoker",
+    "image": "/book-4.jpg",
+    "rating": 4.4,
+    "maxRating": 5,
+    "description": "A chilling novel that introduced the iconic character of Count Dracula.",
+    "review": {
+      "name": "Jonathan Harker",
+      "age": 33,
+      "message": "A masterful blend of horror and gothic romance.",
+      "title": "Eerily Mesmerizing"
+    },
+    "downloads": 900000
+  },
+  {
+    "id": 15,
+    "name": "Wuthering Heights",
+    "author": "Emily Brontë",
+    "image": "/book-3.jpg",
+    "rating": 4.2,
+    "maxRating": 5,
+    "description": "A complex tale of passion and revenge set in the Yorkshire moors.",
+    "review": {
+      "name": "Catherine Earnshaw",
+      "age": 26,
+      "message": "A haunting story of love and obsession.",
+      "title": "Dark and Intense"
+    },
+    "downloads": 750000
+  },
+  {
+    "id": 16,
+    "name": "The Adventures of Huckleberry Finn",
+    "author": "Mark Twain",
+    "image": "/book-5.jpg",
+    "rating": 4.3,
+    "maxRating": 5,
+    "description": "A novel following the adventures of Huck Finn as he navigates life along the Mississippi River.",
+    "review": {
+      "name": "Tom Sawyer",
+      "age": 18,
+      "message": "A captivating tale of freedom and friendship.",
+      "title": "Timeless Adventure"
+    },
+    "downloads": 850000
+  },
+  {
+    "id": 17,
+    "name": "War and Peace",
+    "author": "Leo Tolstoy",
+    "image": "/book-1.jpg",
+    "rating": 4.5,
+    "maxRating": 5,
+    "description": "A sweeping narrative of Russian society during the Napoleonic Wars.",
+    "review": {
+      "name": "Anna Karenina",
+      "age": 35,
+      "message": "An epic masterpiece of historical fiction.",
+      "title": "Profound and Detailed"
+    },
+    "downloads": 600000
+  },
+  {
+    "id": 18,
+    "name": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "image": "/book-4.jpg",
+    "rating": 4.2,
+    "maxRating": 5,
+    "description": "A novel that explores the themes of aestheticism and moral duplicity.",
+    "review": {
+      "name": "Basil Hallward",
+      "age": 28,
+      "message": "A brilliant examination of vanity and virtue.",
+      "title": "Darkly Enchanting"
+    },
+    "downloads": 720000
+  },
+  {
+    "id": 19,
+    "name": "Great Expectations",
+    "author": "Charles Dickens",
+    "image": "/book-3.jpg",
+    "rating": 4.4,
+    "maxRating": 5,
+    "description": "The coming-of-age story of an orphan named Pip.",
+    "review": {
+      "name": "Estella Havisham",
+      "age": 30,
+      "message": "A powerful narrative of personal growth and social class.",
+      "title": "Compelling and Heartfelt"
+    },
+    "downloads": 780000
+  },
+  {
+    "id": 20,
+    "name": "The Count of Monte Cristo",
+    "author": "Alexandre Dumas",
+    "image": "/book-2.jpg",
+    "rating": 4.7,
+    "maxRating": 5,
+    "description": "A tale of injustice, revenge, and redemption set in early 19th-century France.",
+    "review": {
+      "name": "Edmond Dantès",
+      "age": 40,
+      "message": "An exhilarating adventure of betrayal and retribution.",
+      "title": "Thrilling and Captivating"
+    },
+    "downloads": 890000
+  },
+  {
+    "id": 21,
+    "name": "The Brothers Karamazov",
+    "author": "Fyodor Dostoevsky",
+    "image": "/book-1.jpg",
+    "rating": 4.5,
+    "maxRating": 5,
+    "description": "A philosophical novel exploring morality, faith, and the nature of justice.",
+    "review": {
+      "name": "Alyosha",
+      "age": 25,
+      "message": "A deep and complex story about family and human nature.",
+      "title": "Profound and Thought-Provoking"
+    },
+    "downloads": 480000
+  },
+  {
+    "id": 22,
+    "name": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "image": "/book-3.jpg",
+    "rating": 4.0,
+    "maxRating": 5,
+    "description": "A novel about a teenager's alienation and loss of innocence.",
+    "review": {
+      "name": "Holden Caulfield",
+      "age": 17,
+      "message": "A raw and honest look at teenage angst and rebellion.",
+      "title": "Intensely Personal"
+    },
+    "downloads": 900000
+  },
+  {
+    "id": 23,
+    "name": "Ulysses",
+    "author": "James Joyce",
+    "image": "/book-5.jpg",
+    "rating": 4.1,
+    "maxRating": 5,
+    "description": "A modernist novel that parallels Homer's Odyssey in a complex stream-of-consciousness narrative.",
+    "review": {
+      "name": "Leopold Bloom",
+      "age": 38,
+      "message": "An innovative and challenging masterpiece of English literature.",
+      "title": "Intricately Constructed"
+    },
+    "downloads": 300000
+  },
+  {
+    "id": 24,
+    "name": "Brave New World",
+    "author": "Aldous Huxley",
+    "image": "/book-4.jpg",
+    "rating": 4.4,
+    "maxRating": 5,
+    "description": "A dystopian novel that anticipates huge scientific advancements in reproductive technology and sleep-learning.",
+    "review": {
+      "name": "John the Savage",
+      "age": 26,
+      "message": "A fascinating and unsettling vision of the future.",
+      "title": "Profoundly Insightful"
+    },
+    "downloads": 850000
+  }
+]
